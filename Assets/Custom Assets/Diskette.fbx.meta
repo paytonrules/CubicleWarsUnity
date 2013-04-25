@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 8525748b7595947d0a52a0e72a953ece
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Camera01
+    100002: Camera01.Target
+    100004: Chapa Central
+    100006: Chapa Superior
+    100008: //RootNode
+    100010: Diskette Inferior
+    100012: Diskette Superior
+    100014: Letras
+    100016: Obj_204564
+    100018: Obj_205756756
+    100020: Obj_2097978978
+    100022: Obj_20dfgdfgfdgd
+    100024: Obj_20ghjghj
+    100026: Obj_20hjkhjkyhjkhj
+    100028: Obj_20ljklkjljklj
+    100030: Obj_20sdfsdfsdfdsfsd
+    100032: Obj_20vbnvbnvbnvbn
+    100034: Obj_20xcvxcvxcvxcvxcv
+    100036: Rectangle01
+    100038: Remate HD
+    100040: Superficie Disco
+    400000: Camera01
+    400002: Camera01.Target
+    400004: Chapa Central
+    400006: Chapa Superior
+    400008: //RootNode
+    400010: Diskette Inferior
+    400012: Diskette Superior
+    400014: Letras
+    400016: Obj_204564
+    400018: Obj_205756756
+    400020: Obj_2097978978
+    400022: Obj_20dfgdfgfdgd
+    400024: Obj_20ghjghj
+    400026: Obj_20hjkhjkyhjkhj
+    400028: Obj_20ljklkjljklj
+    400030: Obj_20sdfsdfsdfdsfsd
+    400032: Obj_20vbnvbnvbnvbn
+    400034: Obj_20xcvxcvxcvxcvxcv
+    400036: Rectangle01
+    400038: Remate HD
+    400040: Superficie Disco
+    2300000: Chapa Central
+    2300002: Chapa Superior
+    2300004: Diskette Inferior
+    2300006: Diskette Superior
+    2300008: Obj_204564
+    2300010: Obj_205756756
+    2300012: Obj_2097978978
+    2300014: Obj_20dfgdfgfdgd
+    2300016: Obj_20ghjghj
+    2300018: Obj_20hjkhjkyhjkhj
+    2300020: Obj_20ljklkjljklj
+    2300022: Obj_20sdfsdfsdfdsfsd
+    2300024: Obj_20vbnvbnvbnvbn
+    2300026: Obj_20xcvxcvxcvxcvxcv
+    2300028: Rectangle01
+    2300030: Remate HD
+    2300032: Superficie Disco
+    3300000: Chapa Central
+    3300002: Chapa Superior
+    3300004: Diskette Inferior
+    3300006: Diskette Superior
+    3300008: Obj_204564
+    3300010: Obj_205756756
+    3300012: Obj_2097978978
+    3300014: Obj_20dfgdfgfdgd
+    3300016: Obj_20ghjghj
+    3300018: Obj_20hjkhjkyhjkhj
+    3300020: Obj_20ljklkjljklj
+    3300022: Obj_20sdfsdfsdfdsfsd
+    3300024: Obj_20vbnvbnvbnvbn
+    3300026: Obj_20xcvxcvxcvxcvxcv
+    3300028: Rectangle01
+    3300030: Remate HD
+    3300032: Superficie Disco
+    4300000: Remate HD
+    4300002: Superficie Disco
+    4300004: Chapa Central
+    4300006: Diskette Superior
+    4300008: Diskette Inferior
+    4300010: Chapa Superior
+    4300012: Obj_20ghjghj
+    4300014: Obj_20dfgdfgfdgd
+    4300016: Obj_20hjkhjkyhjkhj
+    4300018: Obj_205756756
+    4300020: Obj_204564
+    4300022: Obj_2097978978
+    4300024: Obj_20ljklkjljklj
+    4300026: Obj_20vbnvbnvbnvbn
+    4300028: Obj_20xcvxcvxcvxcvxcv
+    4300030: Obj_20sdfsdfsdfdsfsd
+    4300032: Rectangle01
+    6400000: Chapa Central
+    6400002: Chapa Superior
+    6400004: Diskette Inferior
+    6400006: Diskette Superior
+    6400008: Obj_204564
+    6400010: Obj_205756756
+    6400012: Obj_2097978978
+    6400014: Obj_20dfgdfgfdgd
+    6400016: Obj_20ghjghj
+    6400018: Obj_20hjkhjkyhjkhj
+    6400020: Obj_20ljklkjljklj
+    6400022: Obj_20sdfsdfsdfdsfsd
+    6400024: Obj_20vbnvbnvbnvbn
+    6400026: Obj_20xcvxcvxcvxcvxcv
+    6400028: Rectangle01
+    6400030: Remate HD
+    6400032: Superficie Disco
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
