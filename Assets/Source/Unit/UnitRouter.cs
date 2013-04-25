@@ -29,7 +29,6 @@ public class UnitRouter : MonoBehaviour, UnityObject
     labelScript.target = gameObject.transform;
     labelScript.offset = labelOffset;
 
-    Debug.Log("SHOES ON");
     var unitView = gameObject.GetComponent<UnitView>();
     unitView.Bind(unit);
     
