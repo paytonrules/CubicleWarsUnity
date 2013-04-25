@@ -12,6 +12,6 @@ public class GameRouter : MonoBehaviour {
 			new HumanPlayer("Player2"));
 
    	 var view = gameObject.GetComponent<GameView>();
-    view.Bind(stateMachine);
+     view.Bind(stateMachine);
 	}
 }
