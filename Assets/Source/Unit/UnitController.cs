@@ -18,7 +18,7 @@ public class UnitController : MonoBehaviour
 	public void Bind (Unit unit)
 	{
 		this.unit = unit;
-		this.unit.Died += () => DestroyObject (gameObject);
+		this.unit.Dead += () => DestroyObject (gameObject);
 	}
 	
 	// This selects a unit.  The Cubicle Wars state machine takes
