@@ -14,6 +14,7 @@ public class HealthLabel : MonoBehaviour {
     this.unit = unit;
   }
 
+	// We use update to poll the update for the health.
   void Update()
   {
     transform.position = Camera.main.WorldToViewportPoint(target.position + offset);
