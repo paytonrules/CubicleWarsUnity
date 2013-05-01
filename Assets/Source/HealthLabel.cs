@@ -12,6 +12,7 @@ public class HealthLabel : MonoBehaviour {
   {
     this.target = target;
     this.unit = unit;
+	unit.Dead += () => DestroyObject(gameObject);
   }
 
 	// We use update to poll the update for the health.
